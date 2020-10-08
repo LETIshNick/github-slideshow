@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Why am I doing this, I'm tired
+Something new. All this emojy stuff makes me nauseous. Am I getting old?
 
 Use some puerh tea to continue...
